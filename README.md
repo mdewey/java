@@ -1,4 +1,37 @@
-# Java in 2020
+# Java Jamboree in 6hrs
+
+## Questions
+
+> What version of Java?
+
+I am seeing everything from Java 8 to Java 14, with everything in between. I am always of the opinion latest
+
+I am also seeing a big split between Spring 4 and 5.
+
+> Preferred IDE?
+
+IntelliJ is the community preferred, there are ways to get free licence for boot camps. Can we do that or should we stick with free options.
+
+> Is there a micro-level cadence?
+
+Does the 6 hr workshop have a preferred scheduled (breaks, etc)?
+
+> For these workshops, What is more important, knowledge or practice?
+
+Do we want to the students to be exposed to more, but has less practice or less exposure and more practice.
+
+## Elevator Pitch
+
+Boot camp grads are coming into the market with a strong development foundation, but are lacking market needed skills. This course aims to offer a launch pad for a graduate to skill up in modern Java. This is a 6 hr whirlwind tour of Java the language, and Spring MVC, the modern way to create RESTful APIs.
+
+## Learning Outcomes
+
+- Understand what Java is
+- Understand the basic philosophy behind Java
+- be able understand basic Java syntax
+- create simple console apps with Java
+- Create a Spring Web API
+- Know the next steps to continue learning Java
 
 ## Hardware
 
@@ -22,14 +55,7 @@ _NOTE: Instructor will be using a Mac, but any platform is alright_
 - Familiarity with SQL databases
 - Git Knowledge
   - The phrase "clone this repo" doesn't scare you.
-
-## Learning Outcomes
-
-- Understand what Java is
-- Understand the basic philosophy behind Java
-- be able undertstand basic Java syntax
-- create simple console apps with Java
-- Create a Spring Web API
+- Familiarity with React
 
 ## Lessons
 
@@ -103,9 +129,14 @@ Will be in more detail at :[Lecture Notes](java-api.md)
   - POST
   - PUT
   - DELETE
-- Talk to a database
+
+### BONUS: Working with Databases
+
+- What is SQL
   - Postgres
+- Talk to a database
   - ORM (Hiberate)
+  - No O
 
 ### Further topics
 
@@ -122,3 +153,5 @@ Will be in more detail at : [Hand out](postwork.md)
 - Docker
 - Micro-services
 - Other JVM languages
+- Android
+- Exercism
