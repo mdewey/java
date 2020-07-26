@@ -2,8 +2,13 @@
 
 ## Hardware
 
-- A computer running JDK 14 ?
-- A computer with Git installed
+- A computer with
+  - JDK 14(?)
+  - git
+  - Postgres 12(?)
+- IntelliJ(?) install
+
+_NOTE: Instructor will be using a Mac, but any platform is alright_
 
 ## Prerequisites
 
@@ -14,6 +19,7 @@
   - Functions
   - Objects
 - Familiarity with Objects and OOP
+- Familiarity with SQL databases
 - Git Knowledge
   - The phrase "clone this repo" doesn't scare you.
 
@@ -87,6 +93,20 @@ Will be in more detail at :[Lecture Notes](java-basics.md)
 
 Will be in more detail at :[Lecture Notes](java-api.md)
 
+- RESTful Review
+- What is spring
+- Why Spring
+- Creating a simple `Hello, World API`
+- Swagger and packages
+- Creating a
+  - GET
+  - POST
+  - PUT
+  - DELETE
+- Talk to a database
+  - Postgres
+  - ORM (Hiberate)
+
 ### Further topics
 
 Will be in more detail at : [Hand out](postwork.md)
@@ -98,3 +118,7 @@ Will be in more detail at : [Hand out](postwork.md)
 - Sockets
 - Servlets
 - Collections
+- Gradle
+- Docker
+- Micro-services
+- Other JVM languages
