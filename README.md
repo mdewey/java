@@ -14,11 +14,23 @@ IntelliJ is the community preferred, there are ways to get free licence for boot
 
 > Is there a micro-level cadence?
 
-Does the 6 hr workshop have a preferred scheduled (breaks, etc)?
+Does the 6 hr workshop have a preferred scheduled (breaks, lunch, etc)?
 
 > For these workshops, What is more important, knowledge or practice?
 
 Do we want to the students to be exposed to more, but has less practice or less exposure and more practice.
+
+> What format do you want for the markdown?
+
+I assume this will be when we chat about the LMS.
+
+> How public is this?
+
+Is this repo cool? Can I run this past other alumni / community members I might know?
+
+> Is there any Java curriculum currently?
+
+Other internal resources?
 
 ## Elevator Pitch
 
@@ -122,6 +134,10 @@ Will be in more detail at :[Lecture Notes](java-api.md)
 - RESTful Review
 - What is spring
 - Why Spring
+  - light wieght
+  - IoC
+  - MVC
+  - Beans
 - Creating a simple `Hello, World API`
 - Swagger and packages
 - Creating a
@@ -129,6 +145,7 @@ Will be in more detail at :[Lecture Notes](java-api.md)
   - POST
   - PUT
   - DELETE
+- Configuration
 
 ### BONUS: Working with Databases
 
